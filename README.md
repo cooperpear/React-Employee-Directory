@@ -2,6 +2,8 @@
 Employee Directory is a front end React application that uses axios to make a request to an API, displays information on page using components and passable properties between components. 
 
 ## Deployed
+Deployed Heroku App
+https://desolate-refuge-74552.herokuapp.com/
 
 ## Built With
 React.js
