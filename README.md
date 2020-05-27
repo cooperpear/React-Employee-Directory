@@ -1,12 +1,8 @@
 # READ ME - Employee Directory
 Employee Directory is a front end React application that uses axios to make a request to an API, displays information on page using components and passable properties between components. 
 
-Start a react app in your web browser to begin. 
+## Deployed
 
-
-```bash
-Homework11/server.js
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
