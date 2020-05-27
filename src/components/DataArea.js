@@ -85,7 +85,7 @@ export default class DataArea extends Component {
       });
     });
   }
-// ren
+// rend
   render() {
     return (
       <>
