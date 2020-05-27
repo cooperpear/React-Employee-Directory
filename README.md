@@ -6,6 +6,7 @@ Employee Directory is a front end React application that uses axios to make a re
 ## Built With
 
 ## Authors
+Cooper Pearson
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
